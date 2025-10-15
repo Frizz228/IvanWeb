@@ -44,7 +44,7 @@ Check out the product page design:
 - HTML / CSS static website  
 - Responsive layout  
 - Clean, minimal design  
-
+- **   LINK TO WEB - https://frizz228.github.io/IvanWeb/ **
 ---
 
 © 2025 **Amongusik Inc.** All rights reserved.
